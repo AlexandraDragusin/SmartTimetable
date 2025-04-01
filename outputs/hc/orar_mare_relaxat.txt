@@ -1,0 +1,50 @@
+Number of States Generated: 32284
+Execution Time: 189.40854358673096
+Initial state conflicts number: 82
+Final State Conflicts: 4
+Total number of iterations: 2211
+Timetable result: 
+|           Interval           |             Luni             |             Marti            |           Miercuri           |              Joi             |            Vineri            |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|            8 - 10            |      ASC : (ED090 - MA)      |      ED090 - goala           |      ED090 - goala           |      ED090 - goala           |      ED090 - goala           |
+|                              |      ED091 - goala           |      ED091 - goala           |      ED091 - goala           |      ED091 - goala           |      ED091 - goala           |
+|                              |      EG346 - goala           |      EG346 - goala           |      EG346 - goala           |      EG346 - goala           |      EG346 - goala           |
+|                              |      PM : (EG359 - IG)       |      EG359 - goala           |      PP : (EG359 - IS)       |      EG359 - goala           |      EG359 - goala           |
+|                              |      PCom : (PR075 - CC)     |      IA : (PR075 - MP)       |      AA : (PR075 - EM)       |      PM : (PR075 - RS)       |      PCom : (PR075 - CC)     |
+|                              |      PR080 - goala           |      PCom : (PR080 - CC)     |      PCom : (PR080 - MA)     |      PR080 - goala           |      PR080 - goala           |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|            10 - 12           |      PL : (ED090 - DG)       |      ASC : (ED090 - SI)      |      ED090 - goala           |      ED090 - goala           |      ASC : (ED090 - PA)      |
+|                              |      ED091 - goala           |      ED091 - goala           |      ED091 - goala           |      MS : (ED091 - VM)       |      ED091 - goala           |
+|                              |      EG346 - goala           |      ASC : (EG346 - PA)      |      EG346 - goala           |      EG346 - goala           |      EG346 - goala           |
+|                              |      ASC : (EG359 - MS)      |      AA : (EG359 - SC)       |      EG359 - goala           |      EG359 - goala           |      EG359 - goala           |
+|                              |      PL : (PR075 - AD)       |      MS : (PR075 - VM)       |      PL : (PR075 - RD)       |      PM : (PR075 - EA2)      |      PL : (PR075 - DG)       |
+|                              |      PM : (PR080 - CA)       |      PR080 - goala           |      ASC : (PR080 - MA)      |      ASC : (PR080 - PA)      |      AA : (PR080 - SC)       |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|            12 - 14           |      ED090 - goala           |      ED090 - goala           |      ED090 - goala           |      ED090 - goala           |      MS : (ED090 - RA)       |
+|                              |      ED091 - goala           |      ASC : (ED091 - SC)      |      MS : (ED091 - VV)       |      ED091 - goala           |      ED091 - goala           |
+|                              |      EG346 - goala           |      EG346 - goala           |      ASC : (EG346 - CC)      |      EG346 - goala           |      EG346 - goala           |
+|                              |      EG359 - goala           |      EG359 - goala           |      AA : (EG359 - CE)       |      EG359 - goala           |      IA : (EG359 - MD)       |
+|                              |      IA : (PR075 - RF)       |      PR075 - goala           |      PL : (PR075 - RD)       |      PR075 - goala           |      PP : (PR075 - AF)       |
+|                              |      PR080 - goala           |      PR080 - goala           |      PL : (PR080 - IA2)      |      PR080 - goala           |      PR080 - goala           |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|            14 - 16           |      PL : (ED090 - SI)       |      ED090 - goala           |      ED090 - goala           |      ASC : (ED090 - DM)      |      ED090 - goala           |
+|                              |      ED091 - goala           |      ED091 - goala           |      PL : (ED091 - SI)       |      PCom : (ED091 - EM)     |      ED091 - goala           |
+|                              |      EG346 - goala           |      EG346 - goala           |      EG346 - goala           |      EG346 - goala           |      EG346 - goala           |
+|                              |      PP : (EG359 - AI)       |      MS : (EG359 - AI)       |      EG359 - goala           |      PM : (EG359 - MM)       |      IA : (EG359 - PA)       |
+|                              |      PR075 - goala           |      AA : (PR075 - EM)       |      PP : (PR075 - AI)       |      ASC : (PR075 - PA)      |      PP : (PR075 - IE)       |
+|                              |      AA : (PR080 - EM)       |      AA : (PR080 - IE)       |      IA : (PR080 - VM)       |      PM : (PR080 - IG)       |      PR080 - goala           |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|            16 - 18           |      ED090 - goala           |      ED090 - goala           |      ED090 - goala           |      ED090 - goala           |      ED090 - goala           |
+|                              |      ED091 - goala           |      ED091 - goala           |      ED091 - goala           |      MS : (ED091 - IM)       |      ED091 - goala           |
+|                              |      EG346 - goala           |      EG346 - goala           |      EG346 - goala           |      EG346 - goala           |      EG346 - goala           |
+|                              |      EG359 - goala           |      PP : (EG359 - EA)       |      EG359 - goala           |      PM : (EG359 - RS)       |      PP : (EG359 - AF)       |
+|                              |      MS : (PR075 - AG)       |      PR075 - goala           |      PR075 - goala           |      PR075 - goala           |      PR075 - goala           |
+|                              |      PR080 - goala           |      PCom : (PR080 - CC)     |      MS : (PR080 - DI)       |      ASC : (PR080 - EA2)     |      MS : (PR080 - AG)       |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|            18 - 20           |      MS : (ED090 - IM)       |      ED090 - goala           |      ED090 - goala           |      PL : (ED090 - IA2)      |      ED090 - goala           |
+|                              |      PL : (ED091 - MD2)      |      ED091 - goala           |      ED091 - goala           |      ED091 - goala           |      PL : (ED091 - DG)       |
+|                              |      EG346 - goala           |      EG346 - goala           |      EG346 - goala           |      EG346 - goala           |      EG346 - goala           |
+|                              |      PM : (EG359 - IA2)      |      EG359 - goala           |      PM : (EG359 - IA2)      |      EG359 - goala           |      EG359 - goala           |
+|                              |      IA : (PR075 - RF)       |      AA : (PR075 - SC)       |      PCom : (PR075 - SI)     |      PR075 - goala           |      IA : (PR075 - MD)       |
+|                              |      PR080 - goala           |      PP : (PR080 - IE)       |      PR080 - goala           |      PP : (PR080 - EA)       |      PR080 - goala           |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
